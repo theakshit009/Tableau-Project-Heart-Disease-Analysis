@@ -52,8 +52,5 @@ Our analysis concluded that:
 ## Conclusion
 The intersection of data science and healthcare continues to show promise in diagnosing and understanding chronic diseases. This project exemplifies how data analysis can pave the way for informed healthcare decisions and strategic medical interventions.
 
-
-## LinkedIn Post 📲
-https://www.linkedin.com/posts/prakhyat-nandan-srivastava_dataanalysis-python-internship-activity-7187197664571117568-AxE3?utm_source=share&utm_medium=member_desktop
 ## Project Video
 https://youtu.be/FllwVoUYm3M
